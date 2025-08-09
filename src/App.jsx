@@ -420,8 +420,8 @@ const Portfolio = () => {
          {showPopup && (
             <div className="popup show">
                <p>
-                  Cảm ơn vì sự quan tâm của bạn!! Tin nhắn của bạn sẽ sớm được
-                  phản hồi.
+                  Thank you for your interest! Your message will be responded to
+                  soon.
                </p>
             </div>
          )}
